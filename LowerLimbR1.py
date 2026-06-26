@@ -92,5 +92,5 @@ with tab2:
 st.divider()
 
 st.caption(
-    "KU KPS Pain Consult • Doctor QR • No AI • No data collection"
+    "KU KPS Infirmary"
 )
